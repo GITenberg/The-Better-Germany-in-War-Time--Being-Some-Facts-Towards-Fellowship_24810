@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26745'
     url: http://www.gutenberg.org/2009/agents/26745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24810#The-Better-Germany-in-War-Time--Being-Some-Facts-Towards-Fellowship
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-03-12'
 gutenberg_type: Text
